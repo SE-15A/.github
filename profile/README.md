@@ -8,7 +8,7 @@ Here we showcase Awesome Projects by students of SE-15A
 
 ## Featured Projects:
 
-(it's an empty list for now)
+*(it's an empty list for now)*
 
 <br>
 
@@ -19,8 +19,13 @@ Here we showcase Awesome Projects by students of SE-15A
 - Make changes to this README adding your project link and submit a PR.
 
 <br>
+<br>
 
 **For any queries, email at (any of these):**
 
 - Danyal Khalid (Admin): dkhalid.bese24seecs@seecs.edu.pk
 - Shahzaib Ahmad (co-admin): sshahid.bese24seecs@seecs.edu.pk
+
+<br>
+
+For proposing any changes to this README, refer to `issue #1`
