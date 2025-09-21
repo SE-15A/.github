@@ -28,4 +28,4 @@ Here we showcase Awesome Projects by students of SE-15A
 
 <br>
 
-For proposing any changes to this README, refer to `issue #1`
+For proposing any changes to this README, refer to `issue #1` at https://github.com/SE-15A/.github/issues/1
