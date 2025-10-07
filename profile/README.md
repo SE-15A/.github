@@ -1,25 +1,68 @@
-# 🎓 SE-15A
+<h1 align="center">🎓 SE-15A </h1>
 
 Welcome to our Class organization!
 
-Here we are showcasing Awesome Projects by students of SE-15A
+Here we are showcasing **AWESOME** Projects by students of SE-15A
 
-## Featured Projects:
+<br>
 
-*(it's an empty list for now)*
+
+<table align="center">
+
+
+  <!-- TABLE FOR ADDING PROJECTS -->
+
+  <!-- ADD YOUR PROJECT BELLOW THIS COMMENT -->
+
+
+<tr>
+  <td width="100" align="center">
+    <h1>1</h1>
+  </td>
+
+  <!-- Left: Repo Card -->
+  <td>
+    <a href="https://github.com/d-khalid/iris">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=github_dark"
+        width="600"
+        alt="Iris Repo Card"
+      >
+    </a>
+  </td>
+
+  <!-- Right: Circular Avatars (no styles) -->
+  <td width="200" align="center">
+    <a href="https://github.com/d-khalid">
+      <img
+        src="https://images.weserv.nl/?url=avatars.githubusercontent.com/d-khalid&mask=circle&w=64&h=64"
+        width="64"
+        height="64"
+        alt="d-khalid"
+      >
+    </a>
+    <a href="https://github.com/shahzaibahmad05">
+      <img
+        src="https://images.weserv.nl/?url=avatars.githubusercontent.com/shahzaibahmad05&mask=circle&w=64&h=64"
+        width="64"
+        height="64"
+        alt="shahzaibahmad05"
+      >
+    </a>
+  </td>
+</tr>
+
+
+  
+</table>
+
+
+<br>
+<hr>
 
 ## How to Get your Project Added?
 
-### First steps
-
-- Make sure your repository is public on your GitHub account.
-- Add the topic "SE-15A" in your repo details.
-
-### Making changes
-
-- Fork this repository to your account
-- Make changes to this README adding your project link and commit.
-- Submit a Pull Request for us to merge your changes.
+To get your project added, refer to https://github.com/SE-15A/.github/issues/2
 
 ## Questions?
 
@@ -27,5 +70,3 @@ Here we are showcasing Awesome Projects by students of SE-15A
 
 - Danyal Khalid (Admin): dkhalid.bese24seecs@seecs.edu.pk
 - Shahzaib Ahmad (co-admin): sshahid.bese24seecs@seecs.edu.pk
-
-For proposing any changes to this README, refer to https://github.com/SE-15A/.github/issues/1
