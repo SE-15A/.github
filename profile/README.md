@@ -62,7 +62,7 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
 
 ## How to Get your Project Added?
 
-To get your project added, refer to https://github.com/SE-15A/.github/issues/2
+To get your project added, refer to https://github.com/SE-15A/.github/issues/5
 
 ## Questions?
 
