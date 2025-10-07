@@ -7,7 +7,7 @@ Here we are showcasing Awesome Projects by students of SE-15A
 ## Featured Projects:
 
 *(it's an empty list for now)*
-
+z
 ## How to Get your Project Added?
 
 ### First steps
