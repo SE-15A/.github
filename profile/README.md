@@ -53,7 +53,36 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
 </tr>
 
 
-  
+
+<tr>
+  <td width="100" align="center">
+    <h1>2</h1>
+  </td>
+
+  <!-- Left: Repo Card -->
+  <td>
+    <a href="https://github.com/muhammadali182-q/Ballistic-Missile">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali182-q&repo=Ballistic-Missile&theme=github_dark"
+        width="600"
+        alt="Project Repo Card"
+      >
+    </a>
+  </td>
+
+  <!-- Right: Circular Avatars (no styles) -->
+  <td width="200" align="center">
+    <a href="https://github.com/muhammadali182-q">
+      <img
+        src="https://images.weserv.nl/?url=avatars.githubusercontent.com/muhammadali182-q&mask=circle&w=64&h=64"
+        width="64"
+        height="64"
+        alt="Muhammad Ali"
+      >
+    </a>
+  </td>
+</tr>
+
 </table>
 
 
