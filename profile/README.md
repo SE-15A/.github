@@ -1,4 +1,6 @@
-<h1 align="center">🎓 SE-15A </h1>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1vs3TD2ByWnUWfFEBG4bHq163HJBSvwtb" alt="SE-15A Banner" width="70%">
+</p>
 
 Welcome to our Class organization!
 
