@@ -26,7 +26,7 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
   <td>
     <a href="https://github.com/d-khalid/iris">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=github_dark"
+        src="https://github-readme-stats-one-delta-33.vercel.app/api/pin/?username=d-khalid&repo=iris&theme=github_dark"
         width="600"
         alt="Iris Repo Card"
       >
@@ -65,7 +65,7 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
   <td>
     <a href="https://github.com/muhammadali182-q/Ballistic-Missile">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadali182-q&repo=Ballistic-Missile&theme=github_dark"
+        src="https://github-readme-stats-one-delta-33.vercel.app/api/pin/?username=muhammadali182-q&repo=Ballistic-Missile&theme=github_dark"
         width="600"
         alt="Project Repo Card"
       >
@@ -93,7 +93,7 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
   <td>
     <a href="https://github.com/JawadAhmed1402/Forkify">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAhmed1402&repo=Forkify&theme=github_dark"
+        src="https://github-readme-stats-one-delta-33.vercel.app/api/pin/?username=JawadAhmed1402&repo=Forkify&theme=github_dark"
         width="600"
         alt="Forkify Repo Card"
       >
