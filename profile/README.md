@@ -10,6 +10,17 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
 
 
 <table align="center">
+<tr>
+  <td align="center">
+    <h1>SNo.</h1>
+  </td>
+  <td align="center">
+    <h1>Project Details</h1>
+  </td>
+  <td align="center">
+    <h1>Author / co-Authors</h1>
+  </td>
+</tr>
 
 
   <!-- TABLE FOR ADDING PROJECTS -->
