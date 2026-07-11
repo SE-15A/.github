@@ -1,7 +1,10 @@
+<img width="738" height="369" alt="images" src="https://github.com/user-attachments/assets/19930d3a-a3d3-4de3-bc75-f7281ccdc22e" />
+
+
+<!--
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1vs3TD2ByWnUWfFEBG4bHq163HJBSvwtb" alt="SE-15A Banner" width="70%">
 </p>
-
 Welcome to our Class organization!
 
 Here we are showcasing **AWESOME** Projects by students of SE-15A
@@ -23,9 +26,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
 </tr>
 
 
-  <!-- TABLE FOR ADDING PROJECTS -->
-
-  <!-- ADD YOUR PROJECT BELLOW THIS COMMENT -->
 
 
 <tr>
@@ -33,7 +33,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
     <h1>1</h1>
   </td>
 
-  <!-- Left: Repo Card -->
   <td>
     <a href="https://github.com/d-khalid/iris">
       <img
@@ -44,7 +43,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
     </a>
   </td>
 
-  <!-- Right: Circular Avatars (no styles) -->
   <td width="200" align="center">
     <a href="https://github.com/d-khalid">
       <img
@@ -72,7 +70,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
     <h1>2</h1>
   </td>
 
-  <!-- Left: Repo Card -->
   <td>
     <a href="https://github.com/muhammadali182-q/Ballistic-Missile">
       <img
@@ -83,7 +80,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
     </a>
   </td>
 
-  <!-- Right: Circular Avatars (no styles) -->
   <td width="200" align="center">
     <a href="https://github.com/muhammadali182-q">
       <img
@@ -100,7 +96,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
   <td width="100" align="center">
     <h1>3</h1>
   </td>
-  <!-- Left: Repo Card -->
   <td>
     <a href="https://github.com/JawadAhmed1402/Forkify">
       <img
@@ -110,7 +105,6 @@ Here we are showcasing **AWESOME** Projects by students of SE-15A
       >
     </a>
   </td>
-  <!-- Right: Circular Avatars -->
   <td width="200" align="center">
     <a href="https://github.com/JawadAhmed1402">
       <img
@@ -138,3 +132,4 @@ To get your project added, refer to https://github.com/SE-15A/.github/issues/5
 
 - Danyal Khalid (Admin): dkhalid.bese24seecs@seecs.edu.pk
 - Shahzaib Ahmad (co-admin): sshahid.bese24seecs@seecs.edu.pk
+-->
